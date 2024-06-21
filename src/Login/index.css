@@ -1,21 +1,27 @@
 form{
-    width: 60%;
-    border: solid 1px;
+    width: 90%;
+    border: solid 1.5px;
     padding: 10px;
+    margin-left: 35px;
 }
+
 input{
     padding: 12px 5px;
     width: 95%;
     border: solid 1px rgb(105, 103, 103);
     border-radius: 5px;
     margin: 2% 0;
+    margin-top: 40px;
 }
 button{
     border: none;
     border-radius: 5px;
     padding: 12px 5px;
-    background-color: rgb(59, 123, 59);
+    background-color: rgb(133, 54, 223);
     color: #ffffff;
     cursor: pointer;
     width: 97%;
+    font-size: medium;
+    font-weight: bold;
+    margin-bottom: 40px;
 }
